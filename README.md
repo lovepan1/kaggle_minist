@@ -1,0 +1,2 @@
+# kaggle_minist
+tensorlfow_minist_3x3conv_and_2x2maxpool
