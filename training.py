@@ -1,5 +1,5 @@
 import tensorflow as tf
-from mnist import train, validation, test
+from getMinistFeature import train, validation, test
 import os
 
 LEARNING_RATE_BASE = 0.0008
